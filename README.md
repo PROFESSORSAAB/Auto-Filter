@@ -4,7 +4,7 @@
 <h1 align="center">
   <b>ᎪႮͲϴ-ҒᏆᏞͲᎬᎡ</b>
 </h1>
-<a href="https://youtube.com/channel/UCiaz-J50QhtJ73XEEjP_aLQ">
+<a href="https://t.me/NEW_PUNJABI_MOVIES_ZILA_STATION">
   <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-red?logo=youtube" width="150">
 
 [![Stars](https://img.shields.io/github/stars/CyniteOfficial/Auto-Filter-Bot?style=flat-square&color=orange)](https://github.com/CyniteOfficial/Auto-Filter-Bot/stargazers)
@@ -96,5 +96,5 @@ python3 bot.py
 • /broadcast - to broadcast a message to Cynite users
 ```
 
-Cʀᴇᴅɪᴛ ›› [𝐎𝐩𝐮𝐬 𝐓𝐞𝐜𝐡𝐳](https://t.me/OpusTechz) || [𝐂𝐨𝐧𝐭𝐚𝐜𝐭](https://t.me/CyniteOfficial)                                                                                                                                                                                    
-𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐂𝐲𝐧𝐢𝐭𝐞 𝐁𝐨𝐭𝐬](https://t.me/CyniteBots)
+Cʀᴇᴅɪᴛ ›› [𝐎𝐩𝐮𝐬 𝐓𝐞𝐜𝐡𝐳](https://t.me/PROFFASER_SAAB) || [𝐂𝐨𝐧𝐭𝐚𝐜𝐭](https://t.me/PROFFASER_SAAB)                                                                                                                                                                                    
+𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐂𝐲𝐧𝐢𝐭𝐞 𝐁𝐨𝐭𝐬](https://t.me/PROFFASER_SAAB)
